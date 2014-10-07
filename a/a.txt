@@ -1,1 +1,1 @@
-este es el archivo a
+este es el archivo a.txt
